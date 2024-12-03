@@ -10,7 +10,7 @@ export function FloatingDockDemo() {
             icon: (
                 <LinkedInLogoIcon className="h-full w-full text-blue-800 dark:text-neutral-300" />
             ),
-            href: "https://www.linkedin.com/in/somkene-ojukwu/",
+            href: "https://www.linkedin.com/in/fadhilullahi-muazu/",
         },
         {
             title: "Twitter",

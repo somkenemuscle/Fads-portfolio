@@ -12,7 +12,8 @@ function HeroSection() {
                 MUAZU <span className="text-blue-400">FADHILULLAHI</span> ABDULKADIR
               </h1>
               <p className="mt-6 text-lg  font-light leading-8 ">
-                I am a <span className="text-gray-500 font-bold">Full-Stack developer</span>  based in <span className="font-extrabold text-gray-500">Nigeria</span>, passionate about creating web applications that are both functional and visually appealing. <span className="font-semibold text-gray-500">"Coding is not just a job for me, it’s a hobby that I deeply enjoy."</span>
+                I'm a <span className="text-gray-500 font-bold">Smart Contractor Developer</span> and aspiring auditor, driven by a passion for building and securing the web3 ecosystem. My 
+                mission is to deliver secure and efficient smart contracts that empower the decentralized future.
               </p>
               <div className="flex items-center justify-center gap-x-6">
                 <FloatingDockDemo />

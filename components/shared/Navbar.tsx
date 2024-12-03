@@ -16,7 +16,7 @@ const Navbar = () => {
                     <div className="flex lg:flex-1">
                         {/* Company logo */}
                         <Link href="/" className="-m-1.5 p-1.5">
-                            <h1 className='font-extrabold text-xl text-black font-sans'>Muazu<span className='text-blue-400 font-bold'> Fadhilullahi</span></h1>
+                            <h1 className='font-extrabold text-xl text-black font-sans'>Muazu<span className='text-green-700 font-bold'> Fadhilullahi</span></h1>
                         </Link>
                     </div>
 

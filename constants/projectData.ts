@@ -37,16 +37,4 @@ export const projectData = [
         sourceCode: "https://github.com/iamfadhlu/foundry-lottery",
         image: "/assets/images/sd.jpg",
     },
-
-    {
-        title: "Decorvista",
-        description:
-            "An e-commerce platform that allows users to shop for home design appliances and connect with interior designers, creating a collaborative space to showcase and explore innovative designs.",
-        technologies: ["React", "Bootstrap", "Javascript", "Express.js", "MongoDb"],
-        livePreview: "https://decorvista.vercel.app/",
-        caseStudy: "#",
-        sourceCode: "https://github.com/somkenemuscle/decorvista",
-        image: "/assets/images/decor.jpg",
-    },
-
 ];
