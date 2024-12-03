@@ -17,14 +17,14 @@ export function FloatingDockDemo() {
             icon: (
                 <TwitterLogoIcon className="h-full w-full text-neutral-800 dark:text-neutral-300" />
             ),
-            href: "https://x.com/somkeneOj",
+            href: "https://x.com/fromeo_016",
         },
         {
             title: "GitHub",
             icon: (
                 <GitHubLogoIcon className="h-full w-full text-purple-950 dark:text-neutral-300" />
             ),
-            href: "https://github.com/somkenemuscle",
+            href: "https://github.com/iamfadhlu",
         },
 
     ];
