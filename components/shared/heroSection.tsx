@@ -13,7 +13,7 @@ function HeroSection() {
               </h1>
               <p className="mt-6 text-lg  font-light leading-8 ">
                 I'm a <span className="text-gray-500 font-bold">Smart Contractor Developer</span> and aspiring auditor, driven by a passion for building and securing the web3 ecosystem. My
-                mission is to deliver secure and efficient smart contracts that empowers the decentralized future
+                mission is to deliver secure and efficient smart contracts that empower the decentralized future
               </p>
               <div className="flex items-center justify-center gap-x-6">
                 <FloatingDockDemo />
