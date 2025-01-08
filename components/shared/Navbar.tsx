@@ -91,7 +91,7 @@ const Navbar = () => {
                                 {/* Log in link in mobile menu */}
                                 <Link href="mailto:somkeneoj@gmail.com">
                                     <div className="py-6 font-bold">
-                                        Lets Work
+                                        Let's work
                                     </div>
                                 </Link>
 
