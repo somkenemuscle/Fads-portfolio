@@ -48,7 +48,7 @@ const Navbar = () => {
                         <Link href="mailto:somkeneoj@gmail.com">
                             <button className="font-semibold text-sm font-sans bg-black text-white px-4 py-2 rounded hover:bg-gray-900 focus:outline-none">
                                 <span className=" blinking-dot inline-block bg-green-500 rounded-full w-2 h-2 mr-2"></span>
-                                Lets WWork!
+                                Lets Work!
                             </button>
                         </Link>
                     </div>
