@@ -6,7 +6,7 @@ export const projectData = [
             sequential minting of tokens, each with a fixed image URI stored on IPFS for decentralized and permanent storage.
             The Mood NFT enables owners to toggle between two mood states, with dynamic SVG images
             encoded and stored directly on-chain. Both implementations include deployment scripts for multiple networks, and demonstrate the use of decentralized storage
-            solutions for NFT assets.`,
+            solutions for NFT asset.`,
         technologies: ["Foundry", "Solidity", "IPFS", "SVG Encoding", "Openzeppelin"],
         caseStudy: "#",
         sourceCode: "https://github.com/iamfadhlu/erc721-foundry",
